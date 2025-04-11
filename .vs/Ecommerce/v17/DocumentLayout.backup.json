@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B42E537C-3254-43AE-BC3F-AD4CF4D19697}|Models\\Models.csproj|d:\\iti material\\graduation project\\test\\ecommerce\\models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42E537C-3254-43AE-BC3F-AD4CF4D19697}|Models\\Models.csproj|solutionrelative:models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42E537C-3254-43AE-BC3F-AD4CF4D19697}|Models\\Models.csproj|d:\\iti material\\graduation project\\test\\ecommerce\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42E537C-3254-43AE-BC3F-AD4CF4D19697}|Models\\Models.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42E537C-3254-43AE-BC3F-AD4CF4D19697}|Models\\Models.csproj|d:\\iti material\\graduation project\\test\\ecommerce\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42E537C-3254-43AE-BC3F-AD4CF4D19697}|Models\\Models.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42E537C-3254-43AE-BC3F-AD4CF4D19697}|Models\\Models.csproj|d:\\iti material\\graduation project\\test\\ecommerce\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B42E537C-3254-43AE-BC3F-AD4CF4D19697}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42E537C-3254-43AE-BC3F-AD4CF4D19697}|Models\\Models.csproj|d:\\iti material\\graduation project\\test\\ecommerce\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42E537C-3254-43AE-BC3F-AD4CF4D19697}|Models\\Models.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D67C26B-074D-4DF9-A32D-74BD72B11DFE}|Ecommerce.MVC\\Ecommerce.MVC.csproj|d:\\iti material\\graduation project\\test\\ecommerce\\ecommerce.mvc\\ecommerce.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D67C26B-074D-4DF9-A32D-74BD72B11DFE}|Ecommerce.MVC\\Ecommerce.MVC.csproj|solutionrelative:ecommerce.mvc\\ecommerce.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B1A63-2D18-49F0-97CE-424874F2ABB9}|Services\\Services.csproj|d:\\iti material\\graduation project\\test\\ecommerce\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C5B1A63-2D18-49F0-97CE-424874F2ABB9}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D37C0E-C4FE-4B7A-9E1F-6DE6756A3ED0}|Reository\\Reository.csproj|d:\\iti material\\graduation project\\test\\ecommerce\\reository\\reository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70D37C0E-C4FE-4B7A-9E1F-6DE6756A3ED0}|Reository\\Reository.csproj|solutionrelative:reository\\reository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B1A63-2D18-49F0-97CE-424874F2ABB9}|Services\\Services.csproj|d:\\iti material\\graduation project\\test\\ecommerce\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5B1A63-2D18-49F0-97CE-424874F2ABB9}|Services\\Services.csproj|solutionrelative:services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D37C0E-C4FE-4B7A-9E1F-6DE6756A3ED0}|Reository\\Reository.csproj|d:\\iti material\\graduation project\\test\\ecommerce\\reository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D37C0E-C4FE-4B7A-9E1F-6DE6756A3ED0}|Reository\\Reository.csproj|solutionrelative:reository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:00:19.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Models\\Item.cs",
+              "ToolTip": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Models\\Item.cs",
+              "RelativeToolTip": "Models\\Item.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA+wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:58:06.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubCategory.cs",
+              "DocumentMoniker": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Models\\SubCategory.cs",
+              "RelativeDocumentMoniker": "Models\\SubCategory.cs",
+              "ToolTip": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Models\\SubCategory.cs",
+              "RelativeToolTip": "Models\\SubCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:56:31.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ecommerce.MVC",
+              "DocumentMoniker": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Ecommerce.MVC\\Ecommerce.MVC.csproj",
+              "RelativeDocumentMoniker": "Ecommerce.MVC\\Ecommerce.MVC.csproj",
+              "ToolTip": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Ecommerce.MVC\\Ecommerce.MVC.csproj",
+              "RelativeToolTip": "Ecommerce.MVC\\Ecommerce.MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-11T10:52:18.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Models",
+              "DocumentMoniker": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Models\\Models.csproj",
+              "RelativeDocumentMoniker": "Models\\Models.csproj",
+              "ToolTip": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Models\\Models.csproj",
+              "RelativeToolTip": "Models\\Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-11T10:52:13.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Services",
+              "DocumentMoniker": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-11T10:52:05.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:47:45.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reository",
+              "DocumentMoniker": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Reository\\Reository.csproj",
+              "RelativeDocumentMoniker": "Reository\\Reository.csproj",
+              "ToolTip": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Reository\\Reository.csproj",
+              "RelativeToolTip": "Reository\\Reository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-11T10:52:00.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Services\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Class1.cs",
+              "ToolTip": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Services\\Class1.cs",
+              "RelativeToolTip": "Services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:48:55.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Reository\\Class1.cs",
+              "RelativeDocumentMoniker": "Reository\\Class1.cs",
+              "ToolTip": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Reository\\Class1.cs",
+              "RelativeToolTip": "Reository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:48:38.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
