@@ -1,6 +1,5 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Ecommerce.MVC.Models;
 
 namespace Ecommerce.MVC.Controllers;
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Services\\Services.csproj": {}
+    "D:\\ITI Material\\graduation project\\ECommerce\\Ecommerce\\Services\\Services.csproj": {}
   },
   "projects": {
-    "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Services\\Services.csproj": {
+    "D:\\ITI Material\\graduation project\\ECommerce\\Ecommerce\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\ITI Material\\graduation project\\ECommerce\\Ecommerce\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Services\\Services.csproj",
+        "projectPath": "D:\\ITI Material\\graduation project\\ECommerce\\Ecommerce\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\pc1\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI Material\\graduation project\\test\\Ecommerce\\Services\\obj\\",
+        "outputPath": "D:\\ITI Material\\graduation project\\ECommerce\\Ecommerce\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,6 +52,20 @@
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
               "version": "[9.0.4, )"
             },
